@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# Insights-from-Failed-Orders
-https://platform.stratascratch.com/data-projects/insights-failed-orders
-=======
 # Gett_Insights_from_Failed_Orders
 
 ## Problem Description
@@ -59,4 +55,3 @@ When a client places an order, the system attempts to match it with a relevant d
 ### Implementation Note
 
 The focus of this task is on the methodology, data preparation, and analytical approach. Final plots are important, but the structure and clarity of the solution are prioritized.
->>>>>>> Stashed changes
