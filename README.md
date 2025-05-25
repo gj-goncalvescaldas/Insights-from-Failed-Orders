@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# Insights-from-Failed-Orders
-https://platform.stratascratch.com/data-projects/insights-failed-orders
-=======
 # Gett_Insights_from_Failed_Orders
 
 ## Problem Description
@@ -9,6 +5,8 @@ https://platform.stratascratch.com/data-projects/insights-failed-orders
 This data project is based on a real take-home assignment used during the recruitment process for data science positions at Gett, a corporate Ground Transportation Management platform. The objective is to analyze unsuccessful ride orders—those in which a client did not end up getting a car after placing a request via the Gett application.
 
 When a client places an order, the system attempts to match it with a relevant driver. However, not all orders succeed. This project focuses on understanding the reasons behind these failures using two datasets: `data_orders` and `data_offers`.
+
+> **Note:** This problem will be solved using **PySpark** in a **Databricks** environment to efficiently handle data processing and analysis.
 
 ### Objectives
 
@@ -58,5 +56,4 @@ When a client places an order, the system attempts to match it with a relevant d
 
 ### Implementation Note
 
-The focus of this task is on the methodology, data preparation, and analytical approach. Final plots are important, but the structure and clarity of the solution are prioritized.
->>>>>>> Stashed changes
+The entire solution will be developed using **PySpark** within **Databricks**, leveraging its distributed computing capabilities to efficiently manipulate and analyze large-scale data. The focus will be on structuring the code logically, ensuring reproducibility, and clearly presenting findings.
